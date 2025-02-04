@@ -1,28 +1,3 @@
-# Virtual Number Plate of South Korea
-
-### [Kor](README.md) | [Eng](README_eng.md)
-
-
-
-**가상 차량 번호판 생성 프로그램**으로 AI 번호판 인식 데이터셋 생산을 위해 작성하였다.
-
-
-
-## 사용 환경
-
-- **Python**
-
-- **tqdm**: 진행상황 시각화 용도 
-- **PIL**: 번호판 이미지 처리 용도
-- **urllib.request**: 번호판 배경 이미지 다운로드 용도
-- **colorama**: 콘솔 출력 가시성 향상 용도
-
-
-
-```bash
-pip install tqdm pillow
-```
-
 
 
 
